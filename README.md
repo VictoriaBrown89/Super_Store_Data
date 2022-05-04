@@ -2,7 +2,7 @@
 -Cleaned and combined store data and created a dashboard in Excel.
 
 SITUATION & TASK:
-  - "Super Store" ( needed help determining their sales-to-profit margin for their last fiscal year, drilling down into individual regions, states, teams, products, and salespersons. 
+  - "Super Store" (not a real company) needed help determining their sales-to-profit margin for their last fiscal year, drilling down into individual regions, states, teams, products, and salespersons. 
   - The data sets that the company provided needed to be collected and cleaned in order to gain any insights from them. All of the data sets were stored in Excel files, each containing information about some aspect of the business' sales. I determined that the best approach to take was to cleanse the data, combine it, and perform aggregations.
 
 ACTION:
